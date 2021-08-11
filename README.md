@@ -1,4 +1,4 @@
-## Olá! Sou o Bruno
+## Olá! Sou o Bruno 👋
 
 :computer: Dev Fullstack Java Jr (em formação) | Generation Brasil   
 
@@ -17,6 +17,7 @@
   <img align="center" alt="Bruno-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
   
+ 
   ##
   
   <div>
