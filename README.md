@@ -1,12 +1,13 @@
 ## Olá! Sou o Bruno
-💻 Dev Fullstack Java Jr (em formação) | Generation Brasil
-🎯 Sendo 1% melhor todos os dias 
-🏡 São Paulo, Brasil
+
+:computer: Dev Fullstack Java Jr (em formação) | Generation Brasil   
+
+:house_with_garden: São Paulo, Brasil
 
  <div>
   <a href="https://github.com/bbaldaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbaldaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbaldaia&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bbaldaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbaldaia&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
