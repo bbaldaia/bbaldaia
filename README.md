@@ -1,14 +1,12 @@
 ## Olá! Sou o Bruno 👋
 
+<img align="right" width="400" height="400" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+
 :computer: Dev Fullstack Java Jr (em formação) | Generation Brasil   
 
 :house_with_garden: São Paulo, Brasil
 
- <div>
-  <a href="https://github.com/bbaldaia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bbaldaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbaldaia&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbaldaia&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbaldaia&layout=compact&theme=highcontrast)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Java" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
