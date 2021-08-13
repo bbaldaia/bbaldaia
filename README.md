@@ -1,6 +1,6 @@
 ## Olá! Sou o Bruno 👋
 
-<img align="right" width="400" height="400" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+<img align="right" width="300" height="300" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
 
 :computer: Dev Fullstack Java Jr (em formação) | Generation Brasil   
 
