@@ -2,7 +2,7 @@
 
 <img align="right" width="300" height="300" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
 
-:computer: Dev Fullstack Jr | Generation Brasil   
+:computer: Desenvolvedor de Software | Generation Brasil | Faculdade Impacta
 
 :house_with_garden: São Paulo, Brasil
 
